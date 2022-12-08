@@ -7,8 +7,9 @@ This analysis aims to help W. Avy, a famous surfer, and investor, make critical 
 
 ### Results
 The analysis focuses on the temperature from six different weather stations. On Oahu, Hawaii, from 2010-2017 and June and December, specifically.
-
 The first 2 charts show the statistics for June and December 
+
+
 ![december temps](https://user-images.githubusercontent.com/113754027/206349769-8692becf-71ca-484e-a131-7ecf0bcd3722.png)
 
 ![june temps](https://user-images.githubusercontent.com/113754027/206349799-3151d00f-55e0-403f-a41a-d9c41a7dc8bd.png)
